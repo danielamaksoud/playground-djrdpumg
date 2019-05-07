@@ -3,7 +3,15 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+x = 625;
+y = 447;
+
+z = 1540-x-y;
+
+resultado = x*y*z;
+
+print("A terceira parcela equivale a ", z);
+print("O resultado da multiplicação das 3 parcelas é ", resultado);
 ```
 
 # Advanced usage
